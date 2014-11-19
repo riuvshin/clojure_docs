@@ -1,0 +1,5 @@
+================================
+   WELCOME TO CODENVY
+================================
+
+Compilation of this application take a while, so be patient. The app URL will show up a bit earlier than the app is actually deployed to the runner.
