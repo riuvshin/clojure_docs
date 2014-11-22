@@ -2,4 +2,8 @@
    WELCOME TO CODENVY
 ================================
 
-Compilation of this application take a while, so be patient. The app URL will show up a bit earlier than the app is actually deployed to the runner.
+Compilation of this application take a while, so be patient.
+
+The app URL will show up a bit earlier than the app is actually deployed to the runner.
+
+You will see a message that app output has been disabled. Normally, build takes 2-3 mins, so, check app URL after this time.
