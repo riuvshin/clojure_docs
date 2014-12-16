@@ -3,7 +3,7 @@
         {
           "title": "Launch your applicattion ",
           "content": "Run the app",
-          "element": "gwt-debug-MainToolbar/runApp-false",
+          "element": "gwt-debug-MainToolbar/runApp-true",
           "placement": "BOTTOM",
      
           "actions": [
