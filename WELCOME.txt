@@ -10,6 +10,6 @@ You will see a message that app output has been disabled.
 
 Normally, build takes 2-3 mins, but the app URL shows up a bit earlier.
 
-Check app URL in 2 mins after the URL shows up.
+Check app URL in 2 mins after the URL shows up. Application output will be disabled.
 
 You may get logs at Run > View Logs to see the progress of the run process.
