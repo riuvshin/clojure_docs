@@ -5,7 +5,7 @@
           "content": "Run the app",
           "element": "gwt-debug-MainToolbar/runApp-true",
           "placement": "BOTTOM",
-     
+          "xOffset": "-20",
           "actions": [
            {
              "action": "action runApp"
