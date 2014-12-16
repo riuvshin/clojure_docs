@@ -2,7 +2,7 @@
   "steps": [
         {
           "title": "Launch your applicattion ",
-          "content": "Трогай за жопу ![](https://31.media.tumblr.com/6352440d5c6fa97e9e2f73b6c6d76570/tumblr_ng0inyisRj1u4kayco1_500.gif = 150x)",
+          "content": "Run the application",
           "element": "gwt-debug-MainToolbar/Run With...",
           "placement": "BOTTOM",
      
