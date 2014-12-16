@@ -2,7 +2,7 @@
   "steps": [
         {
           "title": "Launch your applicattion ",
-          "content": "Run the app",
+          "content": "This will build a Docker image and start it in a container",
           "element": "gwt-debug-MainToolbar/runApp-true",
           "placement": "BOTTOM",
           "xOffset": "-20",
