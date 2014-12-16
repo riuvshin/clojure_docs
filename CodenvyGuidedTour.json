@@ -1,0 +1,16 @@
+{
+  "steps": [
+        {
+          "title": "Launch your applicattion ",
+          "content": "Run the app",
+          "element": "gwt-debug-MainToolbar/Run With...",
+          "placement": "BOTTOM",
+     
+          "actions": [
+           {
+             "action": "action runApp"
+            }
+           ]
+        }
+    ]
+}
