@@ -1,1 +1,1 @@
-{"runners":{"configs":{"project://clojure_lein":{"variables":{},"ram":4096,"options":{}}},"default":"project://clojure_lein"},"type":"blank","attributes":{}}
+{"description":"A simple JAR project based on Maven.","builders":{},"runners":{"configs":{},"default":"system:/java/standalone/simple/cli"},"type":"blank","attributes":{"language":["unknown"],"contribute":["true"],"contribute_branch":["master"]}}
