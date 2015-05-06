@@ -1,1 +1,1 @@
-{"description":"A simple JAR project based on Maven.","builders":{},"runners":{"configs":{},"default":"system:/java/standalone/simple/cli"},"type":"blank","attributes":{"language":["unknown"],"contribute":["true"],"contribute_branch":["master"]}}
+{"mixinTypes":["contribution"],"builders":{"configs":{}},"runners":{"configs":{},"default":"system:/java/standalone/simple/cli"},"description":"A simple JAR project based on Maven.","type":"blank","attributes":{"contribute_branch":["master"],"contribute_mode":["contribute"]}}

@@ -3,3 +3,4 @@ less: find ./src/less -name '*.less' | entr lessc src/less/app.less resources/pu
 cljs: lein trampoline cljsbuild auto dev
 cljx: lein cljx auto
 mongo: mongod
+ssss
